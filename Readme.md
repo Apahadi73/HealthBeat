@@ -19,5 +19,3 @@ A static landing page template for a health care theme based website
 <img src="img/demo2.png"
      alt="Markdown Monster icon"
      style="float: left; margin: 10px;" />
-
-**Credit:** https://www.youtube.com/watch?v=6OExw1Mhdhw
